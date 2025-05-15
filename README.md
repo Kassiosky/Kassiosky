@@ -70,8 +70,8 @@ Tenho experiência sólida em:
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kassio_Goes-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassio-goes)
-[![E-mail](https://img.shields.io/badge/E--mail-kassio.goes%40example.com-red?style=flat&logo=gmail&logoColor=white)](mailto:kassio.goes@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kassio_Goes-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techKassioAndrade)
+[![E-mail](https://img.shields.io/badge/E--mail-kassio_sky%40hotmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:kassio_sky@hotmail.com)
 
 ---
 
